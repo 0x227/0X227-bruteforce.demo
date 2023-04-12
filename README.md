@@ -8,6 +8,6 @@ This script requires Python 3 to be installed on your system.
 Usage
 To use the script, simply run the following command in the terminal:
 
-Copy code
-python bruteforce.py
+`python script.py`
+
 You will then be prompted to enter the password hash and the character set to use for generating the combinations. The script will then start generating all possible combinations until the correct password is found.
